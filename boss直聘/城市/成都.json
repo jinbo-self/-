@@ -1,0 +1,2541 @@
+{
+    "code": 0,
+    "message": "Success",
+    "zpData": {
+        "businessDistrict": {
+            "code": 101270100,
+            "name": "成都",
+            "subLevelModelList": [
+                {
+                    "code": 510108,
+                    "name": "成华区",
+                    "subLevelModelList": [
+                        {
+                            "code": 83677937,
+                            "name": "339购物中心",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 92628903,
+                            "name": "半边街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2015,
+                            "name": "保和",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37714945,
+                            "name": "八里小区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 5757,
+                            "name": "八里庄",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34621939,
+                            "name": "成都东站",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82977847,
+                            "name": "成都理工",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34624304,
+                            "name": "财富又一城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 55945694,
+                            "name": "成渝立交",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34572311,
+                            "name": "东郊记忆",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 49300331,
+                            "name": "东客站",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34570718,
+                            "name": "动物园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82240854,
+                            "name": "电子科技大学",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3703,
+                            "name": "二仙桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 62903253,
+                            "name": "府青路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81787636,
+                            "name": "高笋塘",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 38795141,
+                            "name": "火车北站",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82682110,
+                            "name": "火车东站",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34736875,
+                            "name": "红星路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 428,
+                            "name": "建设路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 55519752,
+                            "name": "凯德广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 48664133,
+                            "name": "理工大",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 62612252,
+                            "name": "龙湖三千集",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1737,
+                            "name": "李家沱",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1174,
+                            "name": "龙潭",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 575,
+                            "name": "猛追湾",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7125,
+                            "name": "牛王庙",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1558,
+                            "name": "青龙场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3351,
+                            "name": "圣灯",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82495933,
+                            "name": "双荆路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 10553,
+                            "name": "十陵",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34598024,
+                            "name": "十里店",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3036,
+                            "name": "双林路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34573636,
+                            "name": "SM广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 40,
+                            "name": "驷马桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82129914,
+                            "name": "水碾河",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2881,
+                            "name": "双桥子",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 62904144,
+                            "name": "双水碾",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 62905611,
+                            "name": "跳蹬河",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 62918977,
+                            "name": "桃蹊路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 83529957,
+                            "name": "五桂桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34793983,
+                            "name": "五块石",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 742,
+                            "name": "万年场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34572859,
+                            "name": "万象城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34970849,
+                            "name": "新华公园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3720,
+                            "name": "新鸿路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35618652,
+                            "name": "熊猫基地",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510107,
+                    "name": "武侯区",
+                    "subLevelModelList": [
+                        {
+                            "code": 34591773,
+                            "name": "保利花园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34576062,
+                            "name": "川大",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 48731438,
+                            "name": "草金立交",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2145,
+                            "name": "簇桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 49202359,
+                            "name": "川音",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 840,
+                            "name": "创业路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6124,
+                            "name": "东坡",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81900774,
+                            "name": "大石西路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 85244368,
+                            "name": "电信路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 48626158,
+                            "name": "大源",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34568893,
+                            "name": "复城国际广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 99289100,
+                            "name": "芳草街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34569845,
+                            "name": "孵化园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 222876563,
+                            "name": "高朋大道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1403,
+                            "name": "高升桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2046,
+                            "name": "桂溪",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 90676890,
+                            "name": "河滨路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 707,
+                            "name": "火车南站",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34570574,
+                            "name": "汇锦城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 49237454,
+                            "name": "航空港",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34591202,
+                            "name": "航空路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 336,
+                            "name": "红牌楼",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34570802,
+                            "name": "环球中心",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 56259882,
+                            "name": "红瓦寺",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34602969,
+                            "name": "华西",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34575133,
+                            "name": "九方购物中心",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34591616,
+                            "name": "金花",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 38865634,
+                            "name": "金融城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34566586,
+                            "name": "机投",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1875,
+                            "name": "浆洗街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 294,
+                            "name": "九眼桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 192,
+                            "name": "科华北路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 69362694,
+                            "name": "科华中路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82097991,
+                            "name": "科华中路王府井",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37750103,
+                            "name": "丽都",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34935134,
+                            "name": "鹭岛国际",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35681497,
+                            "name": "龙湖金楠天街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 39049038,
+                            "name": "龙腾路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2200,
+                            "name": "磨子桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82802594,
+                            "name": "清水河公园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6080,
+                            "name": "青羊大道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 104461781,
+                            "name": "燃灯寺",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 64474363,
+                            "name": "世豪广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 693,
+                            "name": "双楠",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37954761,
+                            "name": "省体育馆",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1232,
+                            "name": "神仙树",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34566431,
+                            "name": "石羊场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 49896965,
+                            "name": "市一医院",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34611795,
+                            "name": "天府长城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 67505180,
+                            "name": "天府立交",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1092,
+                            "name": "跳伞塔",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 80953086,
+                            "name": "铁像寺",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1387,
+                            "name": "桐梓林",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34577227,
+                            "name": "五大花园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1552,
+                            "name": "武侯祠",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 48756633,
+                            "name": "武侯立交",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2866,
+                            "name": "望江路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34583026,
+                            "name": "外双楠",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34566638,
+                            "name": "新会展中心",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1722,
+                            "name": "肖家河",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82182034,
+                            "name": "洗面桥街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34610837,
+                            "name": "新南门",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3063,
+                            "name": "小天竺",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 83192153,
+                            "name": "永丰路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 57929030,
+                            "name": "衣冠庙",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 930,
+                            "name": "玉林",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34569270,
+                            "name": "伊藤",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34566631,
+                            "name": "银泰城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 55895324,
+                            "name": "棕北",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6186,
+                            "name": "中和",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 377,
+                            "name": "紫荆",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510106,
+                    "name": "金牛区",
+                    "subLevelModelList": [
+                        {
+                            "code": 82241204,
+                            "name": "白果林",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81998786,
+                            "name": "北门大桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 69066145,
+                            "name": "成都军区总医院",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 983,
+                            "name": "茶店子",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2060,
+                            "name": "城隍庙",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82240569,
+                            "name": "洞子口",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 489,
+                            "name": "抚琴",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34586746,
+                            "name": "国宾",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34884638,
+                            "name": "高家庄",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81866168,
+                            "name": "高笋塘",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34591389,
+                            "name": "火车北站",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34584168,
+                            "name": "荷花池",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34634030,
+                            "name": "欢乐谷",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34575832,
+                            "name": "花牌坊",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34656859,
+                            "name": "华侨城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 55558676,
+                            "name": "花照壁",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2728,
+                            "name": "交大路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81522179,
+                            "name": "金府",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6227,
+                            "name": "解放路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2877,
+                            "name": "九里堤",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34577867,
+                            "name": "金牛万达",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 798,
+                            "name": "金泉",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1975,
+                            "name": "金沙",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82380747,
+                            "name": "凯德广场·金牛",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 5865,
+                            "name": "李家沱",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2202,
+                            "name": "梁家巷",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 49925660,
+                            "name": "马鞍路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 829,
+                            "name": "人民北路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1626,
+                            "name": "蜀汉路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2686,
+                            "name": "沙河源",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2919,
+                            "name": "驷马桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 63906585,
+                            "name": "石人小区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 592,
+                            "name": "沙湾",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3135,
+                            "name": "天回",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 51153958,
+                            "name": "通惠门",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34571366,
+                            "name": "五块石",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34581705,
+                            "name": "西安北路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 763,
+                            "name": "西南交大",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82247971,
+                            "name": "永陵路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1141,
+                            "name": "营门口",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34869799,
+                            "name": "一品天下",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34777693,
+                            "name": "羊西线",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34572998,
+                            "name": "中海国际",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 95965507,
+                            "name": "中医大省医院",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510105,
+                    "name": "青羊区",
+                    "subLevelModelList": [
+                        {
+                            "code": 1178,
+                            "name": "八宝街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34590307,
+                            "name": "贝森",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34639367,
+                            "name": "成飞大道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6629,
+                            "name": "城隍庙",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2283,
+                            "name": "草市街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1269,
+                            "name": "草堂",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7105,
+                            "name": "春熙路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 471,
+                            "name": "东坡",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3436,
+                            "name": "府南",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6846,
+                            "name": "抚琴",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 940,
+                            "name": "光华",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 88475462,
+                            "name": "光华大道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 83473558,
+                            "name": "浣花溪",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 617,
+                            "name": "黄田坝",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6851,
+                            "name": "红星路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7689,
+                            "name": "黄忠",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1287,
+                            "name": "金沙",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34573913,
+                            "name": "宽窄巷子",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34613325,
+                            "name": "骡马市",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34583750,
+                            "name": "鹏瑞利.青羊广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1294,
+                            "name": "清江",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82483851,
+                            "name": "清江东路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81766330,
+                            "name": "清江西路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34870561,
+                            "name": "琴台",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1863,
+                            "name": "青羊大道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34581649,
+                            "name": "青羊宫",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34571360,
+                            "name": "青羊万达",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34609944,
+                            "name": "人民公园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2711,
+                            "name": "蜀汉路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 49162632,
+                            "name": "苏坡",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1157,
+                            "name": "天府广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82250024,
+                            "name": "通锦桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1325,
+                            "name": "太升路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 48194121,
+                            "name": "外光华",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1675,
+                            "name": "文家",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2172,
+                            "name": "汪家拐",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37327310,
+                            "name": "外金沙",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 48818807,
+                            "name": "万家湾",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 70996381,
+                            "name": "文殊院",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82378065,
+                            "name": "西单商场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 59894135,
+                            "name": "西南财经大学",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34743088,
+                            "name": "优品道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1757,
+                            "name": "盐市口",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82812720,
+                            "name": "中坝",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510104,
+                    "name": "锦江区",
+                    "subLevelModelList": [
+                        {
+                            "code": 61131275,
+                            "name": "成龙路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34606674,
+                            "name": "川师",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 733,
+                            "name": "春熙路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 64514578,
+                            "name": "东大街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 55808283,
+                            "name": "东大路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 102731945,
+                            "name": "东风大桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2643,
+                            "name": "东光",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 56215769,
+                            "name": "东湖",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 36952902,
+                            "name": "火车南站",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34637133,
+                            "name": "海椒市",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34576606,
+                            "name": "合江亭",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 307,
+                            "name": "红星路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82553185,
+                            "name": "锦华万达",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34606206,
+                            "name": "静居寺",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1042,
+                            "name": "九眼桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 50081672,
+                            "name": "蓝谷地",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 65224360,
+                            "name": "兰桂坊",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82950589,
+                            "name": "莲桂路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34610675,
+                            "name": "莲桂南路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 54344243,
+                            "name": "柳江",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34577067,
+                            "name": "琉璃场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 62979504,
+                            "name": "莲新",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2835,
+                            "name": "龙舟路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3264,
+                            "name": "猛追湾",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1027,
+                            "name": "牛市口",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1984,
+                            "name": "牛王庙",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 49261907,
+                            "name": "攀成钢",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34591960,
+                            "name": "四川师大",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 62913875,
+                            "name": "双桂路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 55860779,
+                            "name": "三官堂",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34585611,
+                            "name": "沙河",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34616917,
+                            "name": "水碾河",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 921,
+                            "name": "三圣",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81016005,
+                            "name": "三圣乡",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 62901914,
+                            "name": "书院街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2342,
+                            "name": "天府广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82418113,
+                            "name": "太古里",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2628,
+                            "name": "太升路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 62568835,
+                            "name": "塔子山公园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 55553721,
+                            "name": "万达广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7456,
+                            "name": "汪家拐",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7074,
+                            "name": "望江路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1135,
+                            "name": "盐市口",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 48861030,
+                            "name": "卓锦城",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510183,
+                    "name": "邛崃市",
+                    "subLevelModelList": [
+                        {
+                            "code": 93386331,
+                            "name": "固驿镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 8592,
+                            "name": "火井",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 66031776,
+                            "name": "回龙",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 85223481,
+                            "name": "金桂街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37628107,
+                            "name": "君威广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 107700848,
+                            "name": "临济",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3249,
+                            "name": "临邛",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 66237242,
+                            "name": "牟礼村",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 97872577,
+                            "name": "南宝山木梯羌寨",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37937521,
+                            "name": "女人街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 90524608,
+                            "name": "平乐古镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 36266546,
+                            "name": "前进",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82603477,
+                            "name": "钱江凤凰城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82847376,
+                            "name": "邛崃家乐福",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 104037001,
+                            "name": "水口",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 8595,
+                            "name": "天台山",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7361,
+                            "name": "羊安",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510182,
+                    "name": "彭州市",
+                    "subLevelModelList": [
+                        {
+                            "code": 7939,
+                            "name": "安仁",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 84794329,
+                            "name": "北大街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 74990727,
+                            "name": "白鹿镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81559852,
+                            "name": "朝阳中路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81522775,
+                            "name": "丽春镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37634349,
+                            "name": "隆丰",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35467229,
+                            "name": "濛阳镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35131547,
+                            "name": "南部新城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81071707,
+                            "name": "上柳河",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 55848804,
+                            "name": "天彭街道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81172660,
+                            "name": "天彭镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82045972,
+                            "name": "沃尔玛",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81212636,
+                            "name": "西华大学",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 125206188,
+                            "name": "小鱼洞",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6509,
+                            "name": "致和",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510181,
+                    "name": "都江堰市",
+                    "subLevelModelList": [
+                        {
+                            "code": 42273345,
+                            "name": "百伦广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 36839463,
+                            "name": "柏条河",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 64523451,
+                            "name": "北外街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7566,
+                            "name": "大观",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34769050,
+                            "name": "都江堰快铁站",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35500207,
+                            "name": "都江堰市体育中心",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37462286,
+                            "name": "都江堰市中医医院",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1672,
+                            "name": "灌口",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 88708692,
+                            "name": "花园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 38913636,
+                            "name": "金融中心",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 88423501,
+                            "name": "九寨花苑",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82428226,
+                            "name": "蒲阳镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 51433104,
+                            "name": "青城后山",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 5892,
+                            "name": "青城山",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82720230,
+                            "name": "天籁村",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2773,
+                            "name": "幸福",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 36564544,
+                            "name": "学府路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 84286341,
+                            "name": "新马路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35355531,
+                            "name": "壹街区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 77815865,
+                            "name": "玉垒山公园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7489,
+                            "name": "玉堂",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82522126,
+                            "name": "中兴镇",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510117,
+                    "name": "郫都区",
+                    "subLevelModelList": [
+                        {
+                            "code": 81439746,
+                            "name": "安德镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 10265,
+                            "name": "安靖",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35055043,
+                            "name": "成外",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 10557,
+                            "name": "大丰",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81229537,
+                            "name": "德源镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34593689,
+                            "name": "高新西",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 10245,
+                            "name": "红光镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35568613,
+                            "name": "合能四季城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 10253,
+                            "name": "郫筒",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 80983355,
+                            "name": "郫县城区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81141574,
+                            "name": "郫县万达",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 36148545,
+                            "name": "蜀都万达",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 10500,
+                            "name": "三道堰",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 53604181,
+                            "name": "唐昌",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 10287,
+                            "name": "团结",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 70612282,
+                            "name": "新民场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 10248,
+                            "name": "犀浦",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 85010163,
+                            "name": "橡树湾",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 83787004,
+                            "name": "友爱镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34608534,
+                            "name": "中海国际",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510116,
+                    "name": "双流区",
+                    "subLevelModelList": [
+                        {
+                            "code": 35028622,
+                            "name": "奥特莱斯",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1529,
+                            "name": "白家",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81628926,
+                            "name": "白沙镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 222885774,
+                            "name": "成都高新区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 64274219,
+                            "name": "城南优品道广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1911,
+                            "name": "东升",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35790242,
+                            "name": "广都",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 108937017,
+                            "name": "钢铁镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1723,
+                            "name": "公兴",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81191893,
+                            "name": "海滨城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34593504,
+                            "name": "华府",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3011,
+                            "name": "黄甲",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35208763,
+                            "name": "航空港",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3239,
+                            "name": "黄龙溪",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6547,
+                            "name": "黄水",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1113,
+                            "name": "华阳",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35108488,
+                            "name": "海洋公园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2333,
+                            "name": "九江",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34569505,
+                            "name": "蛟龙港",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34615200,
+                            "name": "九龙湖",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82695959,
+                            "name": "戛纳湾",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6863,
+                            "name": "金桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82697264,
+                            "name": "籍田街道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 48417842,
+                            "name": "警院",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35001383,
+                            "name": "麓湖生态城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34571450,
+                            "name": "麓山",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34578507,
+                            "name": "牧马山",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35944563,
+                            "name": "南湖",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 58616280,
+                            "name": "仁寿",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 71861894,
+                            "name": "四川大学江安校区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34600925,
+                            "name": "四川现代职业学院",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37728402,
+                            "name": "双流城区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34570678,
+                            "name": "双流机场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81172073,
+                            "name": "双流万达",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 222885772,
+                            "name": "天府新区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 62965686,
+                            "name": "万安",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2927,
+                            "name": "文星",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81112448,
+                            "name": "兴隆街道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7287,
+                            "name": "新兴",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 84913291,
+                            "name": "永安镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 48712795,
+                            "name": "远大",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 67879356,
+                            "name": "雅居乐",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 84821709,
+                            "name": "永兴街道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 72382490,
+                            "name": "益州国际广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35166547,
+                            "name": "中德",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1647,
+                            "name": "中和",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7393,
+                            "name": "正兴",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510115,
+                    "name": "温江区",
+                    "subLevelModelList": [
+                        {
+                            "code": 82750094,
+                            "name": "成都师范学院温江校区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 55346786,
+                            "name": "凤凰大街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34578206,
+                            "name": "芙蓉古城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81288036,
+                            "name": "凤溪大道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 67150370,
+                            "name": "光华大道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6057,
+                            "name": "公平",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34592326,
+                            "name": "国色天乡",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34571340,
+                            "name": "花都大道",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 87155443,
+                            "name": "花园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1137,
+                            "name": "金马镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 15,
+                            "name": "柳城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82901519,
+                            "name": "柳浪湾",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82731012,
+                            "name": "四川农业大学",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 46443775,
+                            "name": "四川艺术职业学院温江校区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 83380531,
+                            "name": "泰迪熊博物馆",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2824,
+                            "name": "天府",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1664,
+                            "name": "万春",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7285,
+                            "name": "文家",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34569964,
+                            "name": "温江大学城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82582200,
+                            "name": "温江老城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 50262577,
+                            "name": "温江新城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 87550595,
+                            "name": "温江校区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81947850,
+                            "name": "永宁镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1718,
+                            "name": "涌泉",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34572738,
+                            "name": "珠江国际",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 49719871,
+                            "name": "珠江新城",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510114,
+                    "name": "新都区",
+                    "subLevelModelList": [
+                        {
+                            "code": 57727960,
+                            "name": "缤纷时代广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 57867914,
+                            "name": "宝光寺",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35247499,
+                            "name": "保利公园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1962,
+                            "name": "斑竹园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 1270,
+                            "name": "大丰",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 58271457,
+                            "name": "电子路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82235449,
+                            "name": "桂湖",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81925905,
+                            "name": "静安路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2021,
+                            "name": "龙桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81193684,
+                            "name": "木兰山",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35674414,
+                            "name": "毗河",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 111630300,
+                            "name": "青白江",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7445,
+                            "name": "石板滩",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34615060,
+                            "name": "四川音乐学院",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2365,
+                            "name": "三河",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3489,
+                            "name": "天回",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81520953,
+                            "name": "泰兴镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 57448183,
+                            "name": "天缘路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81301364,
+                            "name": "体育森林公园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 80988817,
+                            "name": "新都城区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81026816,
+                            "name": "新都物流基地",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2598,
+                            "name": "新繁",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35681482,
+                            "name": "新民镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35077752,
+                            "name": "西南石油大学",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510113,
+                    "name": "青白江区",
+                    "subLevelModelList": [
+                        {
+                            "code": 5914,
+                            "name": "大弯",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 5959,
+                            "name": "红阳",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34571661,
+                            "name": "幸福家园",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510112,
+                    "name": "龙泉驿区",
+                    "subLevelModelList": [
+                        {
+                            "code": 83133758,
+                            "name": "半边街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35376169,
+                            "name": "柏合镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35163557,
+                            "name": "北泉路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 82727209,
+                            "name": "成龙路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 67495848,
+                            "name": "成渝立交",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2616,
+                            "name": "大面",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34577373,
+                            "name": "东山",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 86413545,
+                            "name": "二仙桥",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 6442,
+                            "name": "洪河",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37283603,
+                            "name": "航天",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81037368,
+                            "name": "建材路",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81901964,
+                            "name": "客运总站",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35473220,
+                            "name": "洛带古镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 537,
+                            "name": "龙泉",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35350686,
+                            "name": "师大现代花园",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2971,
+                            "name": "十陵",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81118915,
+                            "name": "世茂城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 7122,
+                            "name": "同安",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34685688,
+                            "name": "西河镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34685822,
+                            "name": "阳光城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81323169,
+                            "name": "音乐广场",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510121,
+                    "name": "金堂县",
+                    "subLevelModelList": [
+                        {
+                            "code": 35767594,
+                            "name": "车站",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35483029,
+                            "name": "大学城",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3694,
+                            "name": "淮口",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 56481046,
+                            "name": "金海岸耍都",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3652,
+                            "name": "竹篙",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510185,
+                    "name": "简阳市",
+                    "subLevelModelList": [
+                        {
+                            "code": 35431000,
+                            "name": "河东新区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35419476,
+                            "name": "贾家镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35635190,
+                            "name": "老城区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37129868,
+                            "name": "三岔湖景区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 71599836,
+                            "name": "石盘镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 69518586,
+                            "name": "石桥镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 74701713,
+                            "name": "太平桥镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 92071020,
+                            "name": "周克芹故里",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510184,
+                    "name": "崇州市",
+                    "subLevelModelList": [
+                        {
+                            "code": 38785763,
+                            "name": "滨河路北段",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 2931,
+                            "name": "崇阳",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34602117,
+                            "name": "崇州万达广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37706972,
+                            "name": "大划",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34573143,
+                            "name": "金鸡",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 8598,
+                            "name": "街子",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 36335146,
+                            "name": "桤泉",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35320751,
+                            "name": "三江",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34795345,
+                            "name": "唐人街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 36184217,
+                            "name": "羊马",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510132,
+                    "name": "新津区",
+                    "subLevelModelList": null
+                },
+                {
+                    "code": 510131,
+                    "name": "蒲江县",
+                    "subLevelModelList": [
+                        {
+                            "code": 70114693,
+                            "name": "成佳",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 38907598,
+                            "name": "大溪谷",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 3213,
+                            "name": "鹤山",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81207472,
+                            "name": "世纪广场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 127793753,
+                            "name": "西来镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 54497500,
+                            "name": "星美国际影城",
+                            "subLevelModelList": null
+                        }
+                    ]
+                },
+                {
+                    "code": 510129,
+                    "name": "大邑县",
+                    "subLevelModelList": [
+                        {
+                            "code": 82810609,
+                            "name": "安仁古镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 81192796,
+                            "name": "蔡场镇",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 8569,
+                            "name": "董场",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 35370141,
+                            "name": "红光小区",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 34714207,
+                            "name": "家乐福",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 709,
+                            "name": "晋原",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 37978211,
+                            "name": "潘家街",
+                            "subLevelModelList": null
+                        },
+                        {
+                            "code": 47458517,
+                            "name": "新世纪广场",
+                            "subLevelModelList": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
